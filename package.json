@@ -1,0 +1,14 @@
+{
+  "name": "paginacion",
+  "version": "1.0.0",
+  "description": "Practica de sistemas operativos para simular la paginacion de un sistema operativo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
